@@ -1,0 +1,9 @@
+﻿  Asteroid.cpp
+C:\Users\Maxime\Desktop\Cpp_Tutorial\asteroids\asteroids\Asteroid.cpp(31,38): warning C4244: 'argument' : conversion de 'T' en 'int', perte possible de données
+          with
+          [
+              T=float
+          ]
+  Game.cpp
+  Génération de code en cours...
+  asteroids.vcxproj -> C:\Users\Maxime\Desktop\Cpp_Tutorial\asteroids\x64\Debug\asteroids.exe
